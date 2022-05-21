@@ -21,4 +21,4 @@ To build with gradle you must to run these commands:
 # Supporters
 No supporters here ;(.
 # Special thanks to
-Nobody xD (COMMING SOON)
+Nobody xDD ( COMMING SOON )
