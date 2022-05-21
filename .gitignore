@@ -1,2 +1,4 @@
 # Project exclude paths
 /.gradle/
+/out/artifacts/OrangeLauncher_jar/OrangeLauncher.jar
+/build/

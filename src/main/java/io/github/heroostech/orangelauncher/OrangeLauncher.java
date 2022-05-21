@@ -1,8 +1,9 @@
-package io.github.heroostech.orangelancher;
+package io.github.heroostech.orangelauncher;
 
 import javax.swing.*;
 import java.awt.*;
 
+@SuppressWarnings("InstantiationOfUtilityClass")
 public class OrangeLauncher {
 
     public OrangeLauncher() {
@@ -21,7 +22,7 @@ public class OrangeLauncher {
         frame.setVisible(true);
     }
 
-    public void main(String[] args) {
+    public static void main(String[] args) {
         new OrangeLauncher();
     }
 }
