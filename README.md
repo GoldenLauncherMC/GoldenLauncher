@@ -21,4 +21,4 @@ To build with gradle you must to run these commands:
 # Supporters
 No supporters here ;(.
 # Special thanks to:
-![LOGO](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/300px-IntelliJ_IDEA_Icon.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/300px-IntelliJ_IDEA_Icon.svg.png" width="100" height="100">
