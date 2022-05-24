@@ -20,5 +20,5 @@ To build with gradle you must to run these commands:
 - Gradle.
 # Supporters
 No supporters here ;(.
-# Special thanks to
-Nobody xDD ( COMMING SOON )
+# Special thanks to:
+![LOGO](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/300px-IntelliJ_IDEA_Icon.svg.png)
