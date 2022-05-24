@@ -21,9 +21,7 @@ To build with gradle you must to run these commands:
 # Supporters
 No supporters here ;(.
 # Special thanks to:
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/300px-IntelliJ_IDEA_Icon.svg.png" width="50" height="50">
-<img src="https://seeklogo.com/images/M/minecraft-logo-5EAD3A1535-seeklogo.com.png" width="50" height="50">
-<img src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/300px-IntelliJ_IDEA_Icon.svg.png" width="50" height="50"> <img src="https://seeklogo.com/images/M/minecraft-logo-5EAD3A1535-seeklogo.com.png" width="50" height="50"> <img src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png" width="50" height="50">
 
 - Intellij IDEA: For a good Java IDE.
 - Minecraft: For a good game.
