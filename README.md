@@ -12,7 +12,7 @@ The best features are here:
 You can download this launcher here: (link comming soon).
 Or build it yourself!
 # Build with gradle
-To build with gradle you must to run this command:
+To build with gradle you must run this command:
 ```./gradlew build```
 # Tools Used
 - Intellij IDEA,
