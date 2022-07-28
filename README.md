@@ -1,4 +1,3 @@
-# THIS REPO IS DISCONTINUED!!!
 # OrangeLauncher
 OrangeLauncher is the best launcher for minecraft.
 # Features
@@ -9,6 +8,7 @@ The best features are here:
 - 📥 Auto Updater. When you opening launcher this is updating it!
 - 🧔 Skin gallery. Don't open your browser. Just go to skins and search your favorite skin!
 - 😎 Client. We have our client that you can run only in this launcher!
+- 🚫 No chat reporting mode and no chat reporting modified server.
 # How to download
 You can download this launcher here: (link comming soon).
 Or build it yourself!
