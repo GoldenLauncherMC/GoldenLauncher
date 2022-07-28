@@ -1,5 +1,5 @@
-# OrangeLauncher
-OrangeLauncher is the best launcher for minecraft.
+# GoldenLauncher
+GoldenLauncher is the best launcher for minecraft.
 # Features
 The best features are here:
 - 💥 Launcher Themes. Change theme for your launcher!
